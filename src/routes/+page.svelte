@@ -95,11 +95,11 @@
   }
 
   .container {
-    position: fixed;
-    top: 25%;
-    left: 40%;
-    margin-top: -50px;
-    margin-left: -100px;
+    margin: 10% auto;
+    display: flex;
+    flex-direction: column;
+    align-items: center;
+    justify-content: center;
   }
 
   .container hgroup {
