@@ -34,8 +34,6 @@
   </article>
 </div>
 <style>
-
-
 .shadow {
   background-color: #2a2a2a;
 }
@@ -150,5 +148,12 @@
     opacity:100;
   }
   
+  
+  @media (max-width: 720px){
+  #role {
+    font-size: 12pt !important;
+  }
+}
+
 
 </style>
