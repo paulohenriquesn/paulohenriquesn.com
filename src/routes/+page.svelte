@@ -27,7 +27,7 @@
 
   <article>
     <p class="tag red big">Algumas experiências</p>
-    <p class="tag big left shadow"><img id="flag" src="/icons/spain.svg" alt="spain"/>  Blocks Revit - Software Engineer</p>
+    <p class="tag big left shadow"><img id="flag" src="/icons/spain.svg" alt="spain"/>  Blocks Revit - Tech Lead</p>
     <p class="tag big left shadow"><img id="flag" src="/icons/brazil.svg" alt="brazil"/>  Farmacias App By Grupo SC - Backend Engineer</p>
     <p class="tag big left shadow"><img id="flag" src="/icons/brazil.svg" alt="brazil"/>  Triad Systems - Full Stack Engineer</p>
     <p class="tag big left shadow"><img id="flag" src="/icons/brazil.svg" alt="brazil"/>  Athlete Training Center - Full Stack Engineer</p>
