@@ -3,9 +3,10 @@
 </script>
 
 <div class="container">
+  <img src="eu.jpg" alt="me" id="img-me"/>
   <hgroup>
     <h1>Paulo Henrique <img src="/icons/duck.svg" alt="duck"/></h1>
-    <h4 id="role">Desenvolvedor Backend Node Pleno</h4>
+    <h4 id="role">Desenvolvedor Backend</h4>
   </hgroup>
   <p class="tag">Estou disponivel para projetos e freelas</p>
   <nav>
@@ -34,6 +35,12 @@
   </article>
 </div>
 <style>
+
+  #img-me {
+    width:200px;
+    border-radius: 18px;
+  }
+
 .shadow {
   background-color: #2a2a2a;
 }
