@@ -100,7 +100,7 @@
   }
 
   .container {
-    margin: 10% auto;
+    margin: 2% auto;
     display: flex;
     flex-direction: column;
     align-items: center;
